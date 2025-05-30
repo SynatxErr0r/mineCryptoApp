@@ -87,7 +87,7 @@ extension SettingsView {
                     .foregroundColor(Color.theme.accent)
             }
             .padding(.vertical)
-            Link("Subscribe on TikTalk 😘", destination: tiktalkURL)
+            Link("Subscribe on TikTok 😘", destination: tiktalkURL)
             Link("Communicate with me 🤙🏻", destination: lineURL)
             Link("Support me 🌟", destination: githubURL)
         }
