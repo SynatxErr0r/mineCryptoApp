@@ -10,7 +10,7 @@ import SwiftUI
 struct SettingsView: View {
     
     let defaultURL = URL(string: "https://www.google.com")!
-    let githubURL = URL(string: "https://github.com/SynatxErr0r")!
+    let githubURL = URL(string: "https://github.com/SyntaxErr0r-0214")!
     let tiktalkURL = URL(string: "https://v.douyin.com/whBKP-4LXGU/9@0.com :4pm")!
     let lineURL = URL(string: "https://line.me/ti/p/jVqKFWjfTW")!
     let coingeckoURL = URL(string: "https://www.coingecko.com")!
